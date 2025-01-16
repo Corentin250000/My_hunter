@@ -1,0 +1,9 @@
+my_hunter
+*.gcda
+*.gcno
+*.o
+unit_tests
+coding-style-reports.log
+*.a
+*.mp3
+.vscode
